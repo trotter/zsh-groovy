@@ -1,0 +1,1 @@
+export GROOVY_HOME="$(ls -d /usr/local/Cellar/play/* | sort | tail -1)"
